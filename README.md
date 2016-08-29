@@ -17,4 +17,4 @@ Start the server by running:
   
   You should see that the server has received the message and that your client received a response.
 
-I choose to release this code under the GPLv3 license, mainly to piss @parski off.
+I choose to release this code under the GPLv3 license, mainly to piss [@parski](https://github.com/parski) off.
