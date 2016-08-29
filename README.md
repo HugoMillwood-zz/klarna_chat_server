@@ -16,3 +16,5 @@ Start the server by running:
   `tcp_client:start()`
   
   You should see that the server has received the message and that your client received a response.
+
+I choose to release this code under the GPLv3 license, mainly to piss @parski off.
